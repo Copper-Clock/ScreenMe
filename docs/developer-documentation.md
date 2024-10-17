@@ -34,7 +34,7 @@ $ git push --delete origin v0.18.5                                              
 ### Outdated documentation that needs to be updated
 
 Here is a high-level overview of the different components that make up the Screenly-OSE system.
-![Screenly-OSE Diagram Overview](https://raw.githubusercontent.com/Copper-Clock/ScreenMe/main/docs/images/screenly-ose-diagram-overview.png)
+![Screenly-OSE Diagram Overview](https://raw.githubusercontent.com/Copper-Clock/ScreenMe/master/docs/images/screenly-ose-diagram-overview.png)
 
 * Screenly-Viewer is what drives the screen (Ex: shows web page or image or video).
 * Screenly-Server is what the user interacts with (Ex: Web GUI).
